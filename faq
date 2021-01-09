@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <nav>
+      <ul>
+        <li><a href="tab1.html">Home</a></li>
+        <li><a href="SecondPage.html"> Our Mission </a></li>
+        <li><a href="tab4.html"> Why Choose Us? </a></li>
+        <li><a href = "OurTechnology.html"> Our Technology </a></li>
+        <li><a href = "faq.html"> FAQ & Disclaimer </a></li>
+      </ul>
+    </nav>
+    
+    <!-- TODO: Update the title of your website -->
+    <title> FAQ & Disclaimer </title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+ <body style="background-color:#006b80";>
+    
+    <!-- TODO: Update the heading with the name of your website -->
+    <h1 style = "text-align:center; font-size: 50px; color: white;"> FAQ & Disclaimer </h1>
+    <style>
+    </style>
+    <div class="parallax"></div>
+    <h2 style = "text-align:center; font-size: 35px; color: white; font-family: playfair;">Disclaimer</h2>
+    
+   <!-- <img src="https://www.unido.org/sites/default/files/styles/fullwidth_image/public/styles/1_1_crop_widget/public/2020-04/ccCapture.PNG?itok=lSmxk29s" class = "center" width = "300px" height = "300px" >  -->
+    
+    <p style = "text-align: center; font-size: 20px; color:white; padding-top: 10px; padding-right: 100px; padding-bottom: 10px; padding-left: 100px;">  
+    All database records are directly credited towards our trusted research centers. We do not supply resources without a company license. All proceedings go towards hospitals in our database.
+    </p>
+    
+    
+    <h2 style = "text-align:center; font-size: 35px; color: white; font-family: playfair;"> Frequently Asked Questions </h2> 
+    <img src="https://d14zyouj9r0hpo.cloudfront.net/wp-content/uploads/2020/06/image-76.jpeg" class = "center" width = "300px" height = "300px">
+    
+    <h3 style = "text-align:center; font-size: 35px; color: white; font-family: playfair;"> Are low-income hospitals supported through your business? </h3> 
+    <p style = "text-align: center; font-size: 20px; color:white; padding-top: 10px; padding-right: 100px; padding-bottom: 10px; padding-left: 100px;">
+      
+    Yes! Our main priority is to help every hospital, and supply them with adequate resources during these unprecedented times. Contact us today to add your hospital in our records!
+      
+    </p>
+    
+    <h3 style = "text-align:center; font-size: 35px; color: white; font-family: playfair;"> How credible are your records? </h3>
+    <img src="https://www.scnsoft.com/blog-pictures/information-security/7-best-practices-for-database-security.png" class = "center" width = "300px" height = "300px">
+    
+    
+    <p style = "text-align: center; font-size: 20px; color:white; padding-top: 10px; padding-right: 100px; padding-bottom: 10px; padding-left: 100px;">
+      
+    We take pride in having up-to-date AND accurate records which accurately represent our hospitals. To ensure a smooth process, we feature a second-by-second alert system
+    to notify all of our partners and shareholders. Lastly, all our sources directly come from our trusted research partners, who are added into our database under strict supervision.
+      
+    </p>
+      
+    </div>
+    <div class="parallax"></div>
+    <div style="height:200px; background-color: #ffffff;color:#006b80;">
+      <h1 style = "text-align:center; padding-top: 30px;"> Contact Us Today! </h1> 
+      <p style = "text-align: center; font-size: 20px; padding-top: 10px; padding-right: 100px; padding-bottom: 10px; padding-left: 100px;"> Call us at (854)-555-9132 or email us at info@healthainsghts.org TODAY to help out a low-income hospital or sponsor your manufacutirng company! </p>
+    <div class="parallax"></div>
+
+      
+    
+    <!-- TODO: Continue to add content to your homepage using your wireframe as a guide.-->
+    <!-- TODO: Add a <div> container around sections of your homepage. -->
+    
+    
+    
+    
+    
+    <!-- TODO: Add a navigation bar  -->
+    
+    
+    
+    
+    
+  </body>
+</html>
